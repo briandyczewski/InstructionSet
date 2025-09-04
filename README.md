@@ -1,4 +1,4 @@
-#How to Play Texas Hold em' Poker
+# How to Play Texas Hold em' Poker
 
 ## Introduction
 Texas Hold em' is a variation of Poker that people play in Casinos, at home, and in tournements all the time, some people play for real money, while others play just for the thrill of the game. Below are the instructions on how to play the game.
